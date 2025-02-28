@@ -47,8 +47,6 @@
       include_once($path.'section/footer.php');
   ?>
 
-  
-
   <!-- 공용 -->
    <script src="./js/script.js"></script>
 </body>
