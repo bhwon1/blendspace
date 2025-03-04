@@ -1,11 +1,6 @@
 <?
     include_once('./_config.php');
 ?>
-
-<?php
-http_response_code(404);
-?>
-
 <!doctype html>
 <html>
 <head>
