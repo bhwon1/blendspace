@@ -8,32 +8,32 @@
   </div>
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:mx-0">
-      <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">Work with us 황백이배</h2>
-      <p class="mt-8 text-lg font-medium text-pretty text-gray-300 sm:text-xl/8">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat.</p>
+      <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">연결의 힘, 성공의 시작</h2>
+      <p class="mt-8 text-lg font-medium text-pretty text-gray-300 sm:text-xl/8">사람과 사람, 사람과 기업을 연결하여 무한한 가능성과 새로운 가치를 창출합니다.</p>
     </div>
     <div class="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
       <div class="grid grid-cols-1 gap-x-8 gap-y-6 text-base/7 font-semibold text-white sm:grid-cols-2 md:flex lg:gap-x-10">
-        <a href="#">Open roles <span aria-hidden="true">&rarr;</span></a>
-        <a href="#">Internship program <span aria-hidden="true">&rarr;</span></a>
-        <a href="#">Our values <span aria-hidden="true">&rarr;</span></a>
-        <a href="#">Meet our leadership <span aria-hidden="true">&rarr;</span></a>
+        <a href="#">비즈니스 연결 <span aria-hidden="true">&rarr;</span></a>
+        <a href="#">커뮤니티  <span aria-hidden="true">&rarr;</span></a>
+        <a href="#">서비스 안내 <span aria-hidden="true">&rarr;</span></a>
+        <a href="#">성공 사례 <span aria-hidden="true">&rarr;</span></a>
       </div>
       <dl class="mt-16 grid grid-cols-1 gap-8 sm:mt-20 sm:grid-cols-2 lg:grid-cols-4">
         <div class="flex flex-col-reverse gap-1">
-          <dt class="text-base/7 text-gray-300">Offices worldwide</dt>
+          <dt class="text-base/7 text-gray-300">파트너 기업</dt>
           <dd class="text-4xl font-semibold tracking-tight text-white">12</dd>
         </div>
         <div class="flex flex-col-reverse gap-1">
-          <dt class="text-base/7 text-gray-300">Full-time colleagues</dt>
-          <dd class="text-4xl font-semibold tracking-tight text-white">300+</dd>
+          <dt class="text-base/7 text-gray-300">성공적 연결 건수</dt>
+          <dd class="text-4xl font-semibold tracking-tight text-white">2,400+</dd>
         </div>
         <div class="flex flex-col-reverse gap-1">
-          <dt class="text-base/7 text-gray-300">Hours per week</dt>
-          <dd class="text-4xl font-semibold tracking-tight text-white">40</dd>
+          <dt class="text-base/7 text-gray-300">산업 분야</dt>
+          <dd class="text-4xl font-semibold tracking-tight text-white">18</dd>
         </div>
         <div class="flex flex-col-reverse gap-1">
-          <dt class="text-base/7 text-gray-300">Paid time off</dt>
-          <dd class="text-4xl font-semibold tracking-tight text-white">Unlimited</dd>
+          <dt class="text-base/7 text-gray-300">고객 만족도</dt>
+          <dd class="text-4xl font-semibold tracking-tight text-white">97%</dd>
         </div>
       </dl>
     </div>

@@ -1,0 +1,8 @@
+*{
+    font-family: "pretendard" !important;
+}
+.bg-img-sky {
+    background-image: url('../img/background-call-to-action.6a5a5672.jpg');
+    background-size: cover;
+    background-position: center;
+}
